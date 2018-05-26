@@ -1,0 +1,22 @@
+{
+  "name": "jquery.drawbox",
+  "version": "1.0.0",
+  "description": "DrawBox is a jQuery plug-in that allows you to create a very simple canvas for drawing.",
+  "main": "jquery.drawbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshtronic/jquery.drawbox.git"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "author": "Josh Sherman <github@joshtronic.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshtronic/jquery.drawbox/issues"
+  },
+  "homepage": "https://github.com/joshtronic/jquery.drawbox#readme"
+}
