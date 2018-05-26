@@ -1,6 +1,6 @@
 {
   "name": "jquery.drawbox",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "DrawBox is a jQuery plug-in that allows you to create a very simple canvas for drawing.",
   "main": "jquery.drawbox.js",
   "scripts": {
